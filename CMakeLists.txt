@@ -27,7 +27,6 @@ qt_add_executable(apptestdb
         sources/sidebar.cpp
         sources/menu/querydialog.cpp
         sources/menu/codeeditor.cpp
-        sources/menu/linenumberarea.cpp
         )
 
 
